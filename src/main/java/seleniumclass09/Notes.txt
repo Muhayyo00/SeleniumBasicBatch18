@@ -1,0 +1,1 @@
+Stale element exception happens when the DOM refreshes and it cannot find an element anymore.
